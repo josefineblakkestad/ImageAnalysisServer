@@ -19,7 +19,7 @@ async function analyseImage(dataURL) {
   const body = {
     contents : [{
       parts: [
-          { text: "What is this picture?"}, //what colours are in this image? / what is the main colour of this image?
+          { text: "What is the colour of this item?"}, 
           { inline_data: {
               mime_type: "image/png",
               data: base64Data
