@@ -8,14 +8,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/tgifford-usc/ImageAnalysisServer.git" //change to my own
+      "url": "git+https://github.com/josefineblakkestad/ImageAnalysisServer.git" 
     },
-    "author": "tgifford-usc",
+    "author": "josefineblakkestad",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/tgifford-usc/ImageAnalysisServer/issues" //change to my own
+      "url": "https://github.com/josefineblakkestad/ImageAnalysisServer.git" 
     },
-    "homepage": "https://github.com/tgifford-usc/ImageAnalysisServer#readme",
+    "homepage": "https://github.com/josefineblakkestad/ImageAnalysisServer.git",
     "dependencies": {
       "cors": "^2.8.5",
       "dotenv": "^16.4.5",
